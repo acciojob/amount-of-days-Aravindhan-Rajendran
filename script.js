@@ -13,4 +13,3 @@ function checkLeapYear(year) {
 // take input
 const year = prompt('Enter a year:');
 console.log(daysOfAYear(year));
-checkLeapYear(year);
